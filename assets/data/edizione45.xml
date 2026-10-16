@@ -62,139 +62,139 @@
     <text>
         <body>
             <div rend="align-right">
-                <head>الباب الخامس<app>
+                <head>الباب الخامس <app>
                         <lem wit="#B #C #T #V">والأربعون</lem>
                         <rdg wit="#S">وأربعون</rdg>
-                    </app>في الدينونة العتيدة</head>
+                    </app> في الدينونة العتيدة</head>
 
-                <p><bibl>قال الإنجيل <app>
+                <p><bibl>قال الإنجيل  <app>
                             <lem wit="#B #C #S">المقدّس</lem>
                             <rdg wit="#T #V" />
-                        </app></bibl>ابن البشر عتيد
-                    أن يأتي <app>
+                        </app> </bibl>ابن البشر عتيد
+                    أن يأتي  <app>
                         <lem wit="#B #C #T #V">بمجد</lem>
                         <rdg wit="#S">بمحد</rdg>
-                    </app>أبيه مع ملائكته وحينئذ <app>
+                    </app> أبيه مع ملائكته وحينئذ  <app>
                         <lem wit="#B #C #T #V">يجازي</lem>
                         <rdg wit="#S"><subst>
                                 <del>تجازي</del>
                                 <add>يجازي</add>
                             </subst></rdg>
-                    </app>
-                    كلّ <app>
+                    </app> 
+                    كلّ  <app>
                         <lem wit="#S #T #V">واحد</lem>
                         <rdg wit="#B"><subst>
                                 <del>أحد نظير</del>
                                 <add>واحد</add>
                             </subst></rdg>
                         <rdg wit="#C">أحد</rdg>
-                    </app>على قدر عمله.</p>
+                    </app> على قدر عمله.</p>
 
-                <p><bibl>قال الرسول</bibl> سيظهر عمل كلّ واحد لأنّ النهار <app>
+                <p><bibl>قال الرسول</bibl> سيظهر عمل كلّ واحد لأنّ النهار  <app>
                         <lem wit="#B #C #S #V">يعلن</lem>
                         <rdg wit="#T">يغلن</rdg>
-                    </app>أنّه بالنار <app>
+                    </app> أنّه بالنار  <app>
                         <lem wit="#B #C #S #V">يُكشَف</lem>
                         <rdg wit="#T">ينكشف</rdg>
-                    </app>
-        <app>
+                    </app> 
+         <app>
                         <lem wit="#C #T #B #V">والنار</lem>
                         <rdg wit="#S"><subst>
                                 <del>البار</del>
                                 <add>النار</add>
                             </subst></rdg>
-                    </app>
-                    <app>
+                    </app> 
+                     <app>
                         <lem wit="#B #C"><term xml:id="تسبر" xml:lang="ar">تسبر</term></lem>
                         <rdg wit="#S #V">تسير</rdg>
                         <rdg wit="#T">تستر</rdg>
-                    </app>
-                    <app>
+                    </app> 
+                     <app>
                         <lem><gloss source="B" target="تسبر" place="above" resp="FA_bis">أيّ تبرهن</gloss></lem>
                         <!-- verifica dove è-->
-                    </app>
+                    </app> 
                     هيئة عمل كلّ واحد.</p>
 
-                <p><bibl>قال <app>
+                <p><bibl>قال  <app>
                             <lem wit="#S #T #V">سليمن</lem>
                             <rdg wit="#B #C">سليمان</rdg>
-                        </app></bibl>
-        <app>
+                        </app> </bibl>
+         <app>
                         <lem wit="#B #C #S #V">الله</lem>
                         <rdg wit="#T">الله إنّ</rdg>
-                    </app> سيسوق إلى الدينونة
-                    كلّ صنع <app>
+                    </app>  سيسوق إلى الدينونة
+                    كلّ صنع  <app>
                         <lem wit="#B #C #S #V">بكلّ</lem>
                         <rdg wit="#T">وكلّ</rdg>
-                    </app>متهاون به إن <app>
+                    </app> متهاون به إن  <app>
                         <lem wit="#B #C #S #V">صالحًا</lem>
                         <rdg wit="#T">كان صالحًا</rdg>
-                    </app> وإن <app>
+                    </app>  وإن  <app>
                         <lem wit="#B #C #S #V">طالحًا</lem>
                         <rdg wit="#T">كان طالحًا</rdg>
-                    </app>.</p>
+                    </app> .</p>
 
-                <p><bibl>قال <app>
+                <p><bibl>قال  <app>
                             <lem wit="#B #C #T #V">سيراخ</lem>
                             <rdg wit="#S">سيراح</rdg>
-                        </app></bibl>
-        <app>
+                        </app> </bibl>
+         <app>
                         <lem wit="#B #C #S #V">سينهض</lem>
                         <rdg wit="#T">سينهط</rdg>
-                    </app>الربّ ويجازي الكلّ
+                    </app> الربّ ويجازي الكلّ
                     ومجازاتهم تُطلَع برؤوسهم.</p>
 
-                <p><bibl>قال باسيليوس</bibl> لا <app>
+                <p><bibl>قال باسيليوس</bibl> لا  <app>
                         <lem wit="#B #C #T #V">تظنّني</lem>
                         <rdg wit="#S">تطنّني</rdg>
-                    </app>كالأمّ المربّية <app>
+                    </app> كالأمّ المربّية  <app>
                         <lem wit="#B #C #S #V">أكذبك وأحضر</lem>
                         <rdg wit="#T">الكذبك واخطر</rdg>
-                    </app>لك رشى كما <app>
+                    </app> لك رشى كما  <app>
                         <lem wit="#B #C #S #V">قد جرت</lem>
                         <rdg wit="#T">جرى</rdg>
-                    </app>عادة الأمّهات أن يفعلنّ <app>
+                    </app> عادة الأمّهات أن يفعلنّ  <app>
                         <lem wit="#B #C #S #V">بالأطفال</lem>
                         <rdg wit="#T">بالأطفل</rdg>
-                    </app>من <app>
+                    </app> من  <app>
                         <lem wit="#S #V #T">أولادهنّ</lem>
                         <rdg wit="#B #C">أولادهم</rdg>
-                    </app>متى زاد <app>
+                    </app> متى زاد  <app>
                         <lem wit="#B #C">نحيبهم</lem>
                         <rdg wit="#S #V">تحيبهم</rdg>
                         <!-- verifia se così-->
                         <rdg wit="#T">دحبهم</rdg>
-                    </app>في غير موضعه <app>
+                    </app> في غير موضعه  <app>
                         <lem wit="#B #C #S #V">وتسكيتهم</lem>
                         <rdg wit="#T">ويسكنيهم</rdg>
-                    </app>
-        <app>
+                    </app> 
+         <app>
                         <lem wit="#S #V">باختلاق</lem>
                         <rdg wit="#B #C">باختلاف</rdg>
                         <rdg wit="#T">باحتلاق</rdg>
-                    </app>الأحاديث لأنّ <app>
+                    </app> الأحاديث لأنّ  <app>
                         <lem wit="#B #C #S #V">هذا</lem>
                         <rdg wit="#T">هذه</rdg>
-                    </app>ليس <app>
+                    </app> ليس  <app>
                         <lem wit="#S #T #V">بخرافة</lem>
                         <rdg wit="#B #C">بحرافة</rdg>
-                    </app>لكنّ قول صادق متقدّم <app>
+                    </app> لكنّ قول صادق متقدّم  <app>
                         <lem wit="#B #C #S #V">بإنذارك</lem>
                         <rdg wit="#T">بإبدراك</rdg>
-                    </app>واعلم يقينًا أنّه سيصير
-                    للعائشين <app>
+                    </app> واعلم يقينًا أنّه سيصير
+                    للعائشين  <app>
                         <lem wit="#B #C #T #V">توبيخًا</lem>
                         <rdg wit="#S">توبنحًا</rdg>
-                    </app>صحيحًا.</p>
+                    </app> صحيحًا.</p>
 
-                <p><bibl>قال <app>
+                <p><bibl>قال  <app>
                             <lem wit="#B #C #T">الثاولوغس</lem>
                             <rdg wit="#S #V">الثاولوعس</rdg>
-                        </app></bibl>الذي
-                    هو أفضل أن <app>
+                        </app> </bibl>الذي
+                    هو أفضل أن  <app>
                         <lem wit="#B #C #V">نتأدّب</lem>
                         <rdg wit="#S #T">يتأدّب</rdg>
-                    </app>الآن <app>
+                    </app> الآن  <app>
                         <lem wit="#B">ونتطهّر</lem>
                         <rdg wit="#C #V">وتتطهّر</rdg>
                         <rdg wit="#S"><subst>
@@ -202,79 +202,79 @@
                                 <add>ويتطهّر</add>
                             </subst></rdg>
                         <rdg wit="#T">ويتطهّر</rdg>
-                    </app>
-        <app>
+                    </app> 
+         <app>
                         <lem wit="#B #C #S">لئلّا</lem>
                         <rdg wit="#T #V">لأنّ</rdg>
-                    </app>
-        <app>
+                    </app> 
+         <app>
                         <lem wit="#B #C #V">نبدرق</lem>
                         <rdg wit="#S"><subst>
                                 <del>نبدرق</del>
                                 <add>يبدرق</add>
                             </subst></rdg>
                         <rdg wit="#T">تبدرق</rdg>
-                    </app>هناك إلى العقاب عندما
+                    </app> هناك إلى العقاب عندما
                     يكون الوقت وقت دينونة لا تنقية.</p>
 
-                <p><bibl>قال الذهبي الفم</bibl> كما <app>
+                <p><bibl>قال الذهبي الفم</bibl> كما  <app>
                         <lem wit="#B #C #S #V">أنّا</lem>
                         <rdg wit="#T">أنّنا</rdg>
-                    </app>نحن <app>
+                    </app> نحن  <app>
                         <lem wit="#B #C #S #V">لسنا</lem>
                         <rdg wit="#T" />
-                    </app>نحاسب عبيدنا على الخروج فقط بل
-                    وعلى <app>
+                    </app> نحاسب عبيدنا على الخروج فقط بل
+                    وعلى  <app>
                         <lem wit="#B #C #V">الاستخراج</lem>
                         <rdg wit="#S">الاستحراج</rdg>
                         <rdg wit="#T">الستخراج</rdg>
-                    </app>ونكشف عن وجوه <app>
+                    </app> ونكشف عن وجوه  <app>
                         <lem wit="#B #C #V">الجبايات</lem>
                         <rdg wit="#S"><subst>
                                 <del>الجيايات</del>
                                 <add>الجبايات</add>
                             </subst></rdg>
                         <rdg wit="#T">الجيايات</rdg>
-                    </app>وعن الزمان والكيفية <app>
+                    </app> وعن الزمان والكيفية  <app>
                         <lem wit="#B #C #S #V">والكمية</lem>
                         <rdg wit="#T">والكيمية</rdg>
-                    </app>هكذا والله ليس <app>
+                    </app> هكذا والله ليس  <app>
                         <lem wit="#B #C #T #V">يحاول</lem>
                         <rdg wit="#S"><subst>
                                 <del>تحاول</del>
                                 <add>يحاول</add>
                             </subst></rdg>
-                    </app>
-                    منّا <app>
+                    </app> 
+                    منّا  <app>
                         <lem wit="#C #S #T #V">السداد</lem>
                         <rdg wit="#B"><subst>
                                 <del>السداد فقط</del>
                                 <add>السداد</add>
                             </subst></rdg>
-                    </app>في
+                    </app> في
                     القنيان فقط بل وفي الاتّفاق.</p>
 
-                <p><app>
+                <p> <app>
                         <lem wit="#C #S #T #V">وقال</lem>
                         <rdg wit="#B">قال</rdg>
-                    </app>إذا كان <app>
-                        <lem wit="#B #C #T #V">الذين لا يشاهدون نور الشمس <app>
+                    </app> إذا كان  <app>
+                        <lem wit="#B #C #T #V">الذين لا يشاهدون نور الشمس  <app>
                                 <lem wit="#B">يصبرون</lem>
                                 <rdg wit="#C #T #V">يصيرون</rdg>
-                            </app>على
-                    حياة <app>
-                                <lem wit="#B #S #T #V"><app>
+                            </app> على
+                    حياة  <app>
+                                <lem wit="#B #S #T #V"> <app>
                                         <lem wit="#B #S #V">أمرّ</lem>
                                         <rdg wit="#T">أمز</rdg>
-                                    </app>
-                    من</lem>
+                                    </app>     من
+                </lem>
                                 <rdg wit="#C">امرس</rdg>
-                            </app><!--
+                            </app> <!--
                             rivedilo-->
-        <app>
+         <app>
                                 <lem wit="#T #V">كلّ موت</lem>
                                 <rdg wit="#B #C">الموت</rdg>
-                            </app></lem>
+                            </app> </lem>
                         <rdgGrp>
                             <rdg wit="#S" varSeq="1">موت</rdg>
                             <rdg wit="#S" varSeq="2" resp="copista">
@@ -285,117 +285,117 @@
                                 </subst>
                             </rdg>
                         </rdgGrp>
-                    </app>        
-        <app>
+                    </app>         
+         <app>
                         <lem wit="#B #C #T #V">فماذا</lem>
                         <rdg wit="#S">فمادا</rdg>
-                    </app>يعرض <app>
+                    </app> يعرض  <app>
                         <lem wit="#B #C #T #V">بالواجب</lem>
                         <rdg wit="#S"><subst>
                                 <del>بالمواجب</del>
                                 <add>بالواجب</add>
                             </subst></rdg>
-                    </app>للفاقدين
+                    </app> للفاقدين
                     ذلك النور.</p>
 
-                <p><app>
-                        <lem wit="#B #C #S #V"><bibl>قال <app>
+                <p> <app>
+                        <lem wit="#B #C #S #V"><bibl>قال  <app>
                                     <lem wit="#B #V">اغريغوريوس</lem>
                                     <rdg wit="#C">غريغوريوس</rdg>
                                     <rdg wit="#S">اغريعوريوس</rdg>
-                                </app>
-                    نيسس</bibl> الحصاد الذي لك أهل <app>
+                                </app> 
+                    نيسس</bibl> الحصاد الذي لك أهل  <app>
                                 <lem wit="#B #C #V">لزرعك</lem>
                                 <rdg wit="#S">لرزعك</rdg>
-                            </app>زرعت
-                    المرارة احصد <app>
+                            </app> زرعت
+                    المرارة احصد  <app>
                                 <lem wit="#S">جرزها</lem>
                                 <rdg wit="#B #C">جرزها ما</rdg>
                                 <rdg wit="#V">حرزها</rdg>
-                            </app>أكرمت
-                    الجفاء لك ما أحببت هربت من الرحمة <app>
+                            </app> أكرمت
+                    الجفاء لك ما أحببت هربت من الرحمة  <app>
                                 <lem wit="#B #C #V">ستهرب</lem>
                                 <rdg wit="#S"><subst>
                                         <del>شهرب</del>
                                         <add>ستهرب</add>
                                     </subst></rdg>
-                            </app>منك
-                    الرحمة رفضت الضعيف <app>
+                            </app> منك
+                    الرحمة رفضت الضعيف  <app>
                                 <lem wit="#B #S">سيرفضك</lem>
                                 <rdg wit="#C #V">سير فضك</rdg>
-                            </app>الذي <app>
+                            </app> الذي  <app>
                                 <lem wit="#B #S #V">تمسكّن</lem>
                                 <rdg wit="#C">تسكن</rdg>
-                            </app>من أجلنا</lem>
+                            </app> من أجلنا</lem>
                         <rdg wit="#T" />
-                    </app>.</p>
+                    </app> .</p>
 
-                <p><app>
-                        <lem wit="#B #C #V"><bibl>قال فيلن</bibl> ليس يذهب عند الله <app>
+                <p> <app>
+                        <lem wit="#B #C #V"><bibl>قال فيلن</bibl> ليس يذهب عند الله  <app>
                             <lem wit="#V">للصالح</lem>    
                             <rdg wit="#B #C">الصالح</rdg> 
-                        </app>جزاء صالح
-                    عن أمر صالح <app>
+                        </app> جزاء صالح
+                    عن أمر صالح  <app>
                         <lem wit="#V">عمله</lem>        
                         <rdg wit="#B #C">عملته</rdg> 
-                    </app>مع كثير من
-                    الشرور ولا أيضًا يفلت الصالح من العقاب عن <app>
+                    </app> مع كثير من
+                    الشرور ولا أيضًا يفلت الصالح من العقاب عن  <app>
                         <lem wit="#V">رذيلة</lem>
-                        <rdg wit="#B #C" type="ortographic">رديلة</rdg> </app>اجترحها
-                    مع مناقب جميلة جمّة لأنّ ضرورةً أن توفّي الله الكلّ بالميزان <app>
+                        <rdg wit="#B #C" type="ortographic">رديلة</rdg> </app> اجترحها
+                    مع مناقب جميلة جمّة لأنّ ضرورةً أن توفّي الله الكلّ بالميزان  <app>
                                 <lem wit="#B #V">والمعيار</lem>
                                 <rdg wit="#C">المعيار</rdg>
-                            </app></lem>
+                            </app> </lem>
                         <rdg wit="#T #S" />
-                    </app>.</p>
+                    </app> .</p>
 
-                <p><bibl>قال ديونيسيوس</bibl> ليس العقاب هاهنا رديئًا بل <app>
+                <p><bibl>قال ديونيسيوس</bibl> ليس العقاب هاهنا رديئًا بل  <app>
                         <lem wit="#B #C #T #V">استيجابه</lem>
                         <rdg wit="#S">السنحابه</rdg>
-                    </app>هناك.</p>
+                    </app> هناك.</p>
 
-                <p><app>
-                        <lem wit="#B #C #T #V"><bibl>قال <app>
+                <p> <app>
+                        <lem wit="#B #C #T #V"><bibl>قال  <app>
                             <lem wit="#V">رالوقس</lem>  
                             <!-- vedere se senza zayn-->  
                             <rdg wit="#B">الوفس</rdg>
                                 <rdg wit="#C">الوقس</rdg>
                                 <rdg wit="#T">والوقس</rdg> 
-                             </app></bibl>قد وُصِّينا <app>
+                             </app> </bibl>قد وُصِّينا  <app>
                                 <lem wit="#B #C #V">هكذا كلّنا</lem>
                                 <rdg wit="#T" />
-                            </app>نحن سكّان المدائن
-                    أن نذكر الله المرسل القضايا على <app>
+                            </app> نحن سكّان المدائن
+                    أن نذكر الله المرسل القضايا على  <app>
                                 <lem wit="#B #C">الغشمة</lem>
                                 <rdg wit="#T">الغشة</rdg>
                                 <rdg wit="#V">العشة</rdg>
                                 <!-- verificalo-->
-                            </app>وأن <app>
+                            </app> وأن  <app>
                                 <lem wit="#B">نضع</lem>
                                 <rdg wit="#C #V">تضع</rdg>
                                 <rdg wit="#T">نصح</rdg>
-                            </app>قدام <app>
+                            </app> قدام  <app>
                                 <lem wit="#B #C #V">أعيننا</lem>
                                 <rdg wit="#T">أعينا</rdg>
-                            </app>الوقت
-                    الذي فيه نهاية كلّ واحد <app>
+                            </app> الوقت
+                    الذي فيه نهاية كلّ واحد  <app>
                                 <lem wit="#B #C #V">ومفارقته</lem>
                                 <rdg wit="#T">ومفارقة</rdg>
-                            </app>
-        <app>
+                            </app> 
+         <app>
                                 <lem wit="#B #C">الحياة</lem>
                                 <rdg wit="#T #V">للحياة</rdg>
-                            </app>لأنّ <app>
+                            </app> لأنّ  <app>
                                 <lem wit="#B #C #V">التضجيع فأس</lem>
                                 <rdg wit="#T">التضيع قاس</rdg>
-                            </app>في
-                    كلّ <app>
+                            </app> في
+                    كلّ  <app>
                                 <lem wit="#B #C #V">العتيدين</lem>
                                 <rdg wit="#T">العنيدين</rdg>
-                            </app>على
+                            </app> على
                     الوفاة</lem>
                         <rdg wit="#S" />
-                    </app>.</p>
+                    </app> .</p>
             </div>
         </body>
     </text>
