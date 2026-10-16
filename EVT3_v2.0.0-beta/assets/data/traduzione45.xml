@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<?xml-stylesheet href="provaCss.css" type="text/css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rawda 1-5</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gili </p>
+            </publicationStmt>
+            <respStmt>edited by <resp xml:id="AG">Anna Gili</resp>, glosses inserted by <resp
+                    xml:id="FA">Ibn al Fadl</resp> or dubious <resp xml:id="FA_bis">Ibn al Fadl
+                dubious</resp></respStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="V">Vat. ar. 111 (14th century), fols 99r-160r (beginning of the
+                        introduction missing) <handNotes>
+                            <handNote xml:id="copistaV" />
+                        </handNotes></witness>
+                    <witness xml:id="S">Sinai ar. 66 (year 1266), fols 260r-375v (breaks off in the
+                        middle of chapter 69) <handNotes>
+                            <handNote xml:id="copistaS" />
+                        </handNotes></witness>
+                    <witness xml:id="T">Sinai ar. 456 (13th century), fols 18v-60v (lacks the
+                        introduction and is truncated at the very end of chapter 71)<handNotes>
+                            <handNote xml:id="copistaT" />
+                        </handNotes></witness>
+                    <witness xml:id="B">Tripoli, Dayr Sayyidat al-Balamand (17th century?)<handNotes>
+                            <handNote xml:id="copistaB" />
+                        </handNotes></witness>
+                    <witness xml:id="R">Beirut, Bibliothèque Orientale 545 (1851)<handNotes>
+                            <handNote xml:id="copistaR" />
+                        </handNotes></witness>
+                    <witness xml:id="Q">Beirut, Bibliothèque Orientale 544 (19th century)<handNotes>
+                            <handNote xml:id="copistaQ" />
+                        </handNotes></witness>
+                    <witness xml:id="C">Cairo, Franciscan<handNotes>
+                            <handNote xml:id="copistaC" />
+                        </handNotes></witness>
+                    <witness xml:id="M">Dayr al-Muhallis, 173 (18th century)<handNotes>
+                            <handNote xml:id="copistaM" />
+                        </handNotes></witness>
+                    <witness xml:id="O">Mosca<handNotes>
+                            <handNote xml:id="copistaO" />
+                        </handNotes></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal" />
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2026/05/03" />
+                <name>Anna</name>
+                <desc>Rawda</desc>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter" n="45" xml:id="EPchap45">
+                <head>Chapter forty-five on the forthcoming judgement</head>
+
+                <p><bibl type="source" n="1/1">The Holy Gospel said</bibl>. The son of man is forthcoming to come in the glory of his father with his angels, and then he will reward each one according to the measure of his actions.</p>
+
+                <p><bibl type="source" n="2/2">The Messenger said</bibl>. The actions of each man will appear because the day will reveal that<note>I suppose that ὅτι in Greek means here "because", but FA understands it as declarative.</note> it is disclosed in the fire and the fire will fathom the aspect of the actions of each man.</p>
+
+                <p><bibl type="source" n="3/3">Salomon said</bibl>. God will send to the judgement every done/made thing with every thing to which little importance is attached, whether good or bad.</p>
+
+                <p><bibl type="source" n="4/4">Syrach said</bibl>. The Lord will rise and reward everyone and their reward will be made known to their heads<note>The construction of <w xml:lang="ar">تُطلَع</w> seems peculiar; moreover, FA may have understood <w xml:lang="gr">τὸ ἀνταπόδομα</w> as subject of the verb.</note>.</p>
+
+                <p><bibl type="source" n="5/5">Basilios said</bibl>. Do not think of me that like the breeding mother I shall deceive you and prepare for you bribes as it was current habit of the mothers to do with the babies among their children when their weeping increases out of place and their calming is through the invention of dreams, for this is not thorugh a fable but a true disocurse that advances in admonishing you, and learn with certainty that there will be a true reproof/reproach for those who are alive.</p>
+                
+                <p><bibl type="source" n="6/6">The Theologian said</bibl>. What is better is that we/one<note>I am unsure whether to follow S (one) or the other MSS (we). Check V.</note> shall be well educated now and be cleaned<note>Here like MaxI and II.</note> so as not to be squandered therre to the judgment<note>The verb <w>نبدرق</w> is either rare or wrong.</note> when the time is the time of judgment not of cleaning.</p>
+
+                <p><bibl type="source" n="7/7">Chrysostomos said</bibl>. As we do not call our servants to account only for the exits/lossess, but also at the extraction [income?]<note>The Arabic translation does not make much sense here with two words meaning "to go out".</note> and investigate on the ways, time, quality, and quantity of the taxes/incomes, so also God seeks to gain from us the repayment not only in the acquisition but also in the agreement.<note>BHO the translation of the specific terms does not make much sense.</note></p>
+
+                <p><bibl type="source" n="-/10">And he said</bibl>. If those who do not see the Sun's light endure a life that is bitter than any death, what appears/happens necessarily to those who are bereft from that light?</p>       
+                
+                <p><bibl type="source" n="11/11">Gregory of Nyssa said</bibl>. The harvest that you have is worthy of your sowing: you have sown bitterness, harvest  its land deprived of herbage; you have honoured the vain, you have what you have loved; you have fled from mercy, mercy will flee from you; you have abandoned the weak, the one who has become poor for our sake will abandon you.</p>
+
+                <p><bibl type="source" n="12/12">Filon said</bibl>. A good recompense does not go lost by God for the good [bad?]<note>I suspst that here the text needs correction.</note> man for a good thing he did among many evil deeds<note>If FA translated Max I, here he corrects ἀγαϑῶν.</note>, and also the good man does not escape from punishment for a vile action he has commited with abundant good virtues, because it is necessary that God pays everything at once<note>Note on this verb</note> through the scale and the benchmark.</p>
+
+                <p><bibl type="source" n="14/14">Dionisios said</bibl>. The judgment here is not bad, but deserving it there.<note>If he translates Max I, there is no genestai added (probably).</note></p>
+
+                <p><bibl type="source" n="-/19">Zaleukos said</bibl>It has already been recommended to us all this way, us inhabitanst of the cities, that we shall remember God, the sender of the judicial contests upon the unjust, and that we shall put in front of our eyes the time in which there is the end of each one and their separation from life, for the wavering has struck in all those who are forthcoming to/about to death.<note>Missing end of the Greek saying.</note></p>
+            </div>
+        </body>
+    </text>
+</TEI>
